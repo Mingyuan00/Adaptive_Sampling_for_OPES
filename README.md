@@ -12,3 +12,5 @@ There are two directories, `ala2/` and `ala10/` under the main directory, corres
 - `opes/COLVAR/analysis.ipynb`: the analysis script for OPES trajectories.
 
 Notice that running `ala2.ipynb` or `ala10.ipynb` has a strict requirement of the directory structure. One can modify such structure by directly altering these scripts. An easier way to use this script is to follow the directory structure in the Zenodo entry. For any question, feel free to raise an issue or email mingyuanzhang@zju.edu.cn.
+
+Notice the same implementation has been uploaded to https://github.com/yongwangCPH/papers/tree/main/2024/ALICE as well. However, from now on, any updates will be committed to this Github repository instead.
