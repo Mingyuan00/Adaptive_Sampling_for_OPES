@@ -1,5 +1,7 @@
 ### Enhanced Sampling of Biomolecular Slow Conformational Transitions Using Adaptive Sampling and Machine Learning
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13294161.svg)](https://doi.org/10.5281/zenodo.13294161) [![plumID:24.019](https://www.plumed-nest.org/eggs/24/019/badge.svg)](https://www.plumed-nest.org/eggs/24/019/)
+
 Mingyuan Zhang, Hao Wu, Yong Wang
 
 This is the official implementation of the algorithm proposed in the paper "Enhanced Sampling of Biomolecular Slow Conformational Transitions Using Adaptive Sampling and Machine Learning" (https://pubs.acs.org/doi/abs/10.1021/acs.jctc.4c00764). Due to the Github file size/number restraint, we only upload the python scripts for the implementation and post-simulation analysis here. For the complete simulation/analysis files that is able to replicate all the results/figures in the paper, please refer to this Zenodo entry: https://zenodo.org/records/13294161.
